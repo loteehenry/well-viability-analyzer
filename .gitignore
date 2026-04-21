@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+.env/
+
+# PyCharm
+.idea/
+
+# Data files (optional depending on your project)
+*.csv
+*.json
+*.ipynb

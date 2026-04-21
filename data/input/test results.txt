@@ -1,0 +1,7 @@
+W5 - 1/12026 - Downtime is 24
+W9 - 1/1/2026 - negative oil
+W8 - 1/5/2026 - negative gas
+W1 - 1/12/2026 - zero opex
+W3 - 1/18/2026 - negative opex
+W3 - 1/25/2026 - water cut above 100
+W8 - 1/14/2026 - downtime is above 24
